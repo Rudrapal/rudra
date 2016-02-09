@@ -1,4 +1,0 @@
-mkdir testing-git
-cd testing-git
-git init
-
